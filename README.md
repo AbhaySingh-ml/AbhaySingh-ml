@@ -24,10 +24,11 @@ Here are some of the projects I'm working on or plan to showcase:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com) *(update this)*
-- Email: your.email@example.com *(optional)*
+- LinkedIn: [linkedin.com/in/Abhay singh](https://www.linkedin.com/in/abhay-singh-1694b221b/) *(update this)*
+- Email: abhaylucky121@gmail.com *(optional)*
 
 ---
 
 > 🧠 *“Stay curious. Keep learning. Build something that matters.”*
+
 
