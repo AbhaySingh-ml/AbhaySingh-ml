@@ -12,11 +12,11 @@ Aspiring **Machine Learning / Deep Learning Engineer** passionate about building
 - **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow (beginner), PyTorch (learning),Wrtting efficent Code 
 - **Tools:** Git & GitHub, Jupyter Notebook, VS Code
 
-## 📂 Projects
+## 📂 Projects and Repos mainteind on Github
 
 Here are some of the projects I'm working on or plan to showcase:
 
-- 🧠 **[ML-Powered Predictor](#)** – A predictive modeling project using real-world datasets.
+- 🧠 **[Credit-Card-Fraud-Detection-System](#)** – A transtion model.
 - 🔍 **[Data Analysis Case Study](#)** – EDA and visualization on structured data.
 - 🤖 **[Deep Learning Practice](#)** – Experiments with CNNs and image data.
 
