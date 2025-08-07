@@ -2,14 +2,14 @@
 
 Aspiring **Machine Learning / Deep Learning Engineer** passionate about building intelligent systems and solving real-world problems through data.
 
-- 🔭 Currently working on: Personal ML projects and job-relevant tasks.
+- 🔭 Currently working on: Personal ML projects, solving DSA Questions on leetcode and job-relevant tasks.
 - 🌱 Learning: Advanced Machine Learning, Deep Learning (CNNs, RNNs, Transformers).
 - ⚡ Interests: Artificial Intelligence, Neural Networks, Generative Models, Model Deployment.
 
 ## 🛠️ Skills
 
 - **Languages:** Python, Bash
-- **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow (beginner), PyTorch (learning)
+- **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow (beginner), PyTorch (learning),Wrtting efficent Code 
 - **Tools:** Git & GitHub, Jupyter Notebook, VS Code
 
 ## 📂 Projects
