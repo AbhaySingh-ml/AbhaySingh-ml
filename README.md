@@ -1,34 +1,73 @@
-# 👋 Hi, I'm Abhay Singh
+# 👋 Hello, I'm Abhay Singh
 
-Aspiring **Machine Learning / Deep Learning Engineer** passionate about building intelligent systems and solving real-world problems through data.
+🎓 MCA | Aspiring **Machine Learning & Deep Learning Engineer**  
+🔍 Passionate about solving real-world problems using data and intelligent systems.  
+📈 Currently sharpening my skills in **DSA**, **ML**, and **end-to-end project development**.
 
-- 🔭 Currently working on: Personal ML projects, solving DSA Questions on leetcode and job-relevant tasks.
-- 🌱 Learning: Advanced Machine Learning, Deep Learning (CNNs, RNNs, Transformers).
-- ⚡ Interests: Artificial Intelligence, Neural Networks, Generative Models, Model Deployment.
+---
 
-## 🛠️ Skills
+## 🚀 Current Focus Areas
 
-- **Languages:** Python, Bash
-- **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow (beginner), PyTorch (learning),Wrtting efficent Code 
-- **Tools:** Git & GitHub, Jupyter Notebook, VS Code
+- 📊 Supervised & Unsupervised Learning (Regression, Classification, Clustering)
+- 📚 Deep Learning: CNNs, RNNs, Transformers (Learning Phase)
+- 💬 NLP: Tokenization, TF-IDF, Text Classification
+- ⚙️ Model Deployment: Streamlit, Hugging Face Spaces (in progress)
+- 📈 Data Structures & Algorithms (LeetCode practice – focused on logic building & performance)
+- 🧪 ML Workflow: Feature engineering, pipelines, evaluation metrics
+- 🔄 Version Control & Collaboration (Git, GitHub)
 
-## 📂 Projects and Repos mainteind on Github
+---
 
-Here are some of the projects I'm working on or plan to showcase:
+## 🛠️ Tech Stack
 
-- 🧠 **[Credit-Card-Fraud-Detection-System](#)** – A transtion model.
-- 🔍 **[Data Analysis Case Study](#)** – EDA and visualization on structured data.
-- 🤖 **[Deep Learning Practice](#)** – Experiments with CNNs and image data.
+- **Languages:** Python, Bash (basic), SQL (learning)
+- **Libraries/Frameworks:**  
+  `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`,  
+  `TensorFlow` *(beginner)*, `PyTorch` *(learning)*  
+- **Tools & Platforms:**  
+  `Jupyter Notebook`, `VS Code`, `Git & GitHub`, `Streamlit`, `Google Colab`
 
-> *(I’ll keep updating this section with links and demos soon.)*
+---
 
-## 📫 Connect with Me
+## 📂 Featured Projects
 
-- LinkedIn: [linkedin.com/in/Abhay singh](https://www.linkedin.com/in/abhay-singh-1694b221b/) *(update this)*
-- Email: abhaylucky121@gmail.com *(optional)*
+> 🔗 *(More project links and live demos coming soon)*
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🛡️ **Credit Card Fraud Detection** | Built a logistic regression model to detect fraudulent transactions on an imbalanced dataset. | ✅ In Progress |
+| 📊 **Data Analysis Case Study** | Performed exploratory data analysis with visual storytelling and insights. | ✅ In Progress |
+| 🧠 **Deep Learning Practice** | Experiments with CNNs using image datasets. | ✅ Ongoing |
+| 🌪️ **Tweet Disaster Classifier (NLP)** | Text classification to distinguish real disaster tweets using TF-IDF + ML models. | ⏳ Planned |
+| 🧮 **Customer Segmentation (Unsupervised)** | K-Means & PCA for business insights in retail/marketing. | ⏳ Planned |
+
+---
+
+## 🧭 Learning & Development Roadmap (Q3–Q4 2025)
+
+> My personal learning goals to level up as an ML Engineer:
+
+- [x] Build 3–4 end-to-end ML projects (EDA → Model → Deployment)
+- [x] Solve 150+ DSA problems (focus on arrays, strings, trees, graphs)
+- [ ] Integrate **MLflow** for experiment tracking
+- [ ] Implement **model explainability** (SHAP / LIME)
+- [ ] Learn **Docker** for containerizing ML apps
+- [ ] Explore **LangChain & LLMs** for GenAI workflows (Q4 goal)
+- [ ] Write technical blogs explaining my projects
+- [ ] Contribute to open-source ML projects (optional but planned)
+
+---
+
+## 🌐 Let's Connect
+
+- 📇 [LinkedIn](https://www.linkedin.com/in/abhay-singh-1694b221b/)
+- 📧 Email: abhaylucky121@gmail.com
+- 🌍 Portfolio Website: *Coming soon*  
+- 💼 Resume: *Available upon request*
 
 ---
 
 > 🧠 *“Stay curious. Keep learning. Build something that matters.”*
+
 
 
