@@ -31,15 +31,25 @@
 
 ## 📂 Featured Projects
 
-> 🔗 *(More project links and live demos coming soon)*
-
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🛡️ **Credit Card Fraud Detection** | Built a logistic regression model to detect fraudulent transactions on an imbalanced dataset. | ✅ In Progress |
+| 🛡️ [**Credit Card Fraud Detection**](https://github.com/AbhaySingh-ml/Project_1_Credit-Card-Fraud-Detection-System) | Built a logistic regression model to detect fraudulent transactions on an imbalanced dataset. | ✅ In Progress |
 | 📊 **Data Analysis Case Study** | Performed exploratory data analysis with visual storytelling and insights. | ✅ In Progress |
 | 🧠 **Deep Learning Practice** | Experiments with CNNs using image datasets. | ✅ Ongoing |
 | 🌪️ **Tweet Disaster Classifier (NLP)** | Text classification to distinguish real disaster tweets using TF-IDF + ML models. | ⏳ Planned |
-| 🧮 **Customer Segmentation (Unsupervised)** | K-Means & PCA for business insights in retail/marketing. | ⏳ Planned |
+| 🧮 [**Customer Segmentation (Unsupervised)**](https://github.com/AbhaySingh-ml/Project-2-Customer-Segmentation-Using-K-Means-Clustering-for-Targeted-Marketing) | K-Means & PCA for business insights in retail/marketing. | ✅ In Progress |
+
+---
+
+## 📘 DSA Practice & Problem Solving
+
+I actively solve Data Structures and Algorithms problems to improve my logic, time-space efficiency, and problem-solving techniques.
+
+| Platform | Repository | Description | Status |
+|----------|------------|-------------|--------|
+| 🔷 LeetCode | [**DSA-LeetCode Solutions**](https://github.com/AbhaySingh-ml/leetcode-solutions) | Daily problem-solving in Python with clean, optimized code and explanations. | 🟢 Active |
+
+> 💡 *Focus areas include arrays, strings, recursion, trees, binary search, and dynamic programming.*
 
 ---
 
@@ -68,6 +78,7 @@
 ---
 
 > 🧠 *“Stay curious. Keep learning. Build something that matters.”*
+
 
 
 
