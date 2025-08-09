@@ -58,7 +58,7 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🛡️ [**Credit Card Fraud Detection**](https://github.com/AbhaySingh-ml/Project_1_Credit-Card-Fraud-Detection-System) | Built a logistic regression model to detect fraudulent transactions on an imbalanced dataset. | ✅ In Progress |
-| 📊 **Data Analysis Case Study** | Performed exploratory data analysis with visual storytelling and insights. | ✅ In Progress |
+| 📊 [**Data Analysis Case Study**](https://github.com/AbhaySingh-ml/House-Prices_Advancced-regression-Techniques) | Performed exploratory data analysis with visual storytelling and insights. | ✅ In Progress |
 | 🧠 **Deep Learning Practice** | Experiments with CNNs using image datasets. | ✅ Ongoing |
 | 🌪️ **Tweet Disaster Classifier (NLP)** | Text classification to distinguish real disaster tweets using TF-IDF + ML models. | ⏳ Planned |
 | 🧮 [**Customer Segmentation (Unsupervised)**](https://github.com/AbhaySingh-ml/Project-2-Customer-Segmentation-Using-K-Means-Clustering-for-Targeted-Marketing) | K-Means & PCA for business insights in retail/marketing. | ✅ In Progress |
