@@ -36,6 +36,23 @@
 
 ---
 
+## 🎯 Skills for Target Roles (Career Roadmap)
+
+> This section maps the skills I’m developing to different roles I am open to — ensuring I can cater to multiple domains.
+
+| Role | Key Skills | Status |
+|------|------------|--------|
+| **Python Developer** | Python, OOP, REST APIs (Flask/FastAPI), Data Structures & Algorithms, Automation Scripts | 🟢 Active |
+| **Data Scientist** | EDA, Feature Engineering, Supervised & Unsupervised Learning, Model Evaluation, ML Libraries (Scikit-learn, TensorFlow, PyTorch) | 🟢 Active |
+| **Machine Learning Engineer** | Model Deployment (Streamlit, FastAPI), CI/CD, Model Optimization, Experiment Tracking (MLflow), Cloud ML Services | 🟢 Active |
+| **MLOps Engineer** | Docker, MLflow, GitHub Actions (CI/CD), Model Monitoring, Version Control, Cloud Infrastructure (AWS/GCP/Azure) | 🟡 In Progress |
+| **Data Engineer** | ETL Pipelines (Airflow, Prefect), PySpark, Kafka (Basics), Data Warehousing (Redshift, BigQuery), SQL | 🟡 In Progress |
+| **BI / Analytics Engineer** | Power BI/Tableau, SQL, Data Modeling, Dashboard Design, Storytelling with Data | 🟡 In Progress |
+
+**Legend:** 🟢 Skilled | 🟡 Learning | 🔴 Planned
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Description | Status |
@@ -93,6 +110,7 @@ I actively solve Data Structures and Algorithms problems to improve my logic, ti
 ---
 
 > 🧠 *“Stay curious. Keep learning. Build something that matters.”*
+
 
 
 
