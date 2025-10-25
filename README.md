@@ -1,4 +1,4 @@
-# 👋 Helo, I'm Abhay Singh
+# 👋 Hello, I'm Abhay Singh
 
 🎓 MCA | Aspiring **Machine Learning, Deep Learning & MLOps Engineer**  
 🔍 Passionate about solving real-world problems using **data-driven intelligent systems**.  
