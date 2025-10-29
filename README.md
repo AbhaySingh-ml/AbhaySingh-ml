@@ -2,7 +2,7 @@
 
 🎓 MCA | Aspiring **Machine Learning, Deep Learning & MLOps Engineer**  
 🔍 Passionate about solving real-world problems using **data-driven intelligent systems**.  
-📈 Currently mastering **DSA**, **ML/DL**, **Cloud Deployment**, and **Production-Grade AI Systems**.
+📈 Currently mastering **DSA**, **ML/DL** and **Production-Grade AI Systems**.
 
 ---
 
