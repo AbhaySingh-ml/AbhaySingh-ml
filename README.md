@@ -56,7 +56,7 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🛡️ [**Credit Card Fraud Detection**](https://github.com/AbhaySingh-ml/Project_1_Credit-Card-Fraud-Detection-System) | Logistic Regression model for detecting fraudulent transactions (Imbalanced Dataset). Deployed via Streamlit. | ✅ Completed |
+| 🛡️ [**Credit Card Fraud Detection**](https://github.com/AbhaySingh-ml/Project-1-Credit-Card-Fraud-Detection) | Logistic Regression model for detecting fraudulent transactions (Imbalanced Dataset). Deployed via Streamlit. | ✅ Completed |
 | 📊 [**Data Analysis Case Study**](https://github.com/AbhaySingh-ml/House-Prices_Advancced-regression-Techniques) | EDA with business insights & visual storytelling. | ✅ Completed |
 | 🧠 **Deep Learning Experiments** | CNNs on image datasets, experimenting with architectures & optimizers. | 🟢 Ongoing |
 | 🌪️ **Tweet Disaster Classifier (NLP)** | TF-IDF + ML Models to detect real disaster tweets. | ⏳ Planned |
