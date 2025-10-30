@@ -3,7 +3,7 @@
 🎓 MCA | Aspiring **Machine Learning, Deep Learning & MLOps Engineer**  
 🔍 Passionate about solving real-world problems using **data-driven intelligent systems**.  
 📈 Currently mastering **DSA**, **ML/DL** and **Production-Grade AI Systems**.
-💼 With a strong foundation in Finance and Commerce, I aim to bridge the gap between AI and Financial Technology (FinTech).
+💼 With a strong foundation in **Finance and Commerce**, I aim to bridge the gap between **AI and Financial Technology (FinTech)**.
 
 ---
 
