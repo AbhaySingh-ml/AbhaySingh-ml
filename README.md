@@ -1,113 +1,79 @@
-# 👋 Hello, I'm Abhay Singh  
+# 👋 Abhay Singh
 
-🎓 MCA | Aspiring **Machine Learning, Deep Learning & MLOps Engineer**  
-🔍 Passionate about solving real-world problems using **data-driven intelligent systems**.  
-📈 Currently mastering **DSA**, **ML/DL**, and **Production-Grade AI Systems**.  
-💼 With a strong foundation in **Finance and Commerce**, I aim to bridge the gap between **AI and Financial Technology (FinTech)**.
+**Entry-Level Data Scientist | Fraud & Risk Analytics**  
+Python • Machine Learning • Imbalanced Classification • Model Evaluation
 
+I am an entry-level Data Scientist with hands-on experience building **machine learning models for risk-sensitive classification problems**, particularly on **highly imbalanced datasets**. My focus is on **evaluation-driven ML**, where metric selection and decision trade-offs matter more than raw accuracy.
 
-
----
-
-## 🚀 Current Focus Areas
-
-- 📊 **Supervised & Unsupervised Learning** (Regression, Classification, Clustering)
-- 🧠 **Deep Learning**: CNNs, RNNs, Transformers (Hands-on Projects & Research)
-- 💬 **NLP**: Tokenization, TF-IDF, Word Embeddings, Transformers (BERT/GPT), Text Classification
-- ⚙️ **Model Deployment**: Streamlit, FastAPI, AWS SageMaker, Hugging Face Spaces
-- 📈 **Data Structures & Algorithms**: LeetCode Practice – Logic Building & Optimization
-- 🧪 **ML Workflow**: Feature Engineering, Pipelines, Hyperparameter Tuning, Evaluation Metrics
-- 🔄 **Version Control & Collaboration**: Git, GitHub, CI/CD (GitHub Actions)
-- 🛠️ **MLOps**: MLflow, Docker, Kubernetes (Basics), Model Monitoring & Retraining
-- 📦 **Data Engineering**: ETL Pipelines (Airflow/Prefect), PySpark, Kafka, Data Lakes/Warehousing
-- 📊 **BI & Analytics**: Power BI, Tableau, SQL, Data Storytelling
-- ☁️ **Cloud Platforms**: AWS (S3, Redshift, EC2, SageMaker), GCP BigQuery, Azure ML
+I hold a Master of Computer Applications (MCA) and a background in Commerce, which helps me approach ML problems with a **risk and decision-making perspective**, especially in FinTech-related use cases.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 Core Skills
 
-- **Languages:** Python, Bash (basic), SQL (intermediate)  
-- **Libraries/Frameworks:**  
-  `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`,  
-  `TensorFlow`, `PyTorch`,  
-  `Flask`, `FastAPI`, `PySpark`  
-- **Tools & Platforms:**  
-  `Jupyter Notebook`, `VS Code`, `Git & GitHub`, `Streamlit`, `Google Colab`,  
-  `MLflow`, `Docker`, `Airflow`, `Power BI`, `Tableau`
+- **Machine Learning:** Supervised classification, imbalanced data handling, model evaluation  
+- **Evaluation & Decision Logic:** Precision, recall, PR-AUC, threshold analysis  
+- **Programming:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit  
+- **Version Control:** Git, GitHub  
+- **Environment:** Linux (WSL2), Jupyter Notebook  
 
 ---
 
-## 🎯 Skills for Target Roles (Career Roadmap)
+## 📂 Selected Projects
 
-> Mapping my skills to the roles I am targeting for maximum versatility.
+### Credit Card Fraud Detection
+Binary classification on a real-world credit card transaction dataset (~284K records, ~0.17% fraud rate).
 
-| Role | Key Skills | Status |
-|------|------------|--------|
-| **Python Developer** | Python, OOP, REST APIs (Flask/FastAPI), DSA, Automation Scripts | 🟢 Skilled |
-| **Data Scientist** | EDA, Feature Engineering, ML Models, Model Evaluation, ML Libraries | 🟢 Skilled |
-| **Machine Learning Engineer** | Model Deployment, CI/CD, Model Optimization, MLflow, Cloud ML | 🟢 Skilled |
-| **MLOps Engineer** | Docker, Kubernetes (Basics), MLflow, GitHub Actions, Model Monitoring, AWS/GCP/Azure | 🟡 Learning |
-| **Data Engineer** | ETL Pipelines, PySpark, Kafka, Redshift/BigQuery, SQL | 🟡 Learning |
-| **BI / Analytics Engineer** | Power BI/Tableau, SQL, Data Modeling, Dashboards | 🟡 Learning |
+- Selected precision–recall metrics over accuracy due to extreme class imbalance  
+- Analyzed threshold trade-offs between missed fraud and false alerts  
+- Avoided synthetic oversampling to preserve realistic evaluation conditions  
+- Deployed an interactive Streamlit application for prediction analysis  
 
-**Legend:** 🟢 Skilled | 🟡 Learning | 🔴 Planned
+Repository:  
+https://github.com/AbhaySingh-ml/Project-1-Credit-Card-Fraud-Detection
 
 ---
 
-## 📂 Featured Projects
+### Emergency Tweet Classification (NLP)
+Recall-sensitive text classification to identify disaster-related tweets.
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🛡️ [**Credit Card Fraud Detection**](https://github.com/AbhaySingh-ml/Project-1-Credit-Card-Fraud-Detection) | Logistic Regression model for detecting fraudulent transactions (Imbalanced Dataset). Deployed via Streamlit. | ✅ Completed |
-| 📊 [**Data Analysis Case Study**](https://github.com/AbhaySingh-ml/House-Prices_Advancced-regression-Techniques) | EDA with business insights & visual storytelling. | ✅ Completed |
-| 🧠 **Deep Learning Experiments** | CNNs on image datasets, experimenting with architectures & optimizers. | 🟢 Ongoing |
-| 🌪️ **Tweet Disaster Classifier (NLP)** | TF-IDF + ML Models to detect real disaster tweets. | ⏳ Planned |
-| 🧮 [**Customer Segmentation (Unsupervised)**](https://github.com/AbhaySingh-ml/Project-2-Customer-Segmentation-Using-K-Means-Clustering-for-Targeted-Marketing) | K-Means & PCA for retail customer segmentation and persona creation. | ✅ Completed |
-| ⚙️ **ML API with FastAPI & Docker** | Containerized ML model served as REST API with authentication. | 🛠️ Planned |
-| 📦 **ETL Pipeline Project** | Data ingestion, transformation & loading using Airflow + PySpark. | 🛠️ Planned |
-| 📊 **Business Dashboard** | Power BI/Tableau dashboard with business KPIs & analytics. | 🛠️ Planned |
+- TF-IDF + Logistic Regression under class imbalance  
+- Optimized evaluation to minimize missed critical signals  
+- Applied cost-aware evaluation principles similar to fraud detection  
+
+Repository:  
+(Add link only if the project is clean and interview-ready)
 
 ---
 
-## 📘 DSA Practice & Problem Solving
+### Customer Segmentation (Unsupervised Learning)
+K-Means clustering and PCA for customer segmentation and pattern discovery.
 
-Daily problem-solving to enhance logic, optimize algorithms, and prepare for technical interviews.
+- Feature preprocessing and dimensionality reduction  
+- Interpreted clusters for analytical insight  
 
-| Platform | Repository | Description | Status |
-|----------|------------|-------------|--------|
-| 🔷 LeetCode | [**DSA-LeetCode Solutions**](https://github.com/AbhaySingh-ml/leetcode-solutions) | 150+ Python solutions with explanations, covering arrays, strings, trees, graphs, DP. | 🟢 Active |
-
----
-
-## 🧭 Learning & Development Roadmap (Q3–Q4 2025)
-
-- [x] Build **4–5 End-to-End ML Projects** (EDA → Model → Deployment)
-- [x] Solve **150+ DSA Problems** (Arrays, Strings, Trees, Graphs, DP)
-- [ ] Integrate **MLflow** for Experiment Tracking
-- [ ] Implement **Model Explainability** (SHAP, LIME)
-- [ ] Learn & Apply **Docker** for Containerizing ML Apps
-- [ ] Explore **LangChain & LLMs** for GenAI Applications
-- [ ] Develop **FastAPI/Django APIs** for ML Models
-- [ ] Learn **PySpark** & Big Data Processing
-- [ ] Build **ETL Pipelines** using Airflow/Prefect
-- [ ] Create **BI Dashboards** in Power BI/Tableau
-- [ ] Deploy ML Workflows on **AWS/GCP/Azure**
-- [ ] Write **Technical Blogs** & Case Studies
-- [ ] Contribute to **Open-Source ML/AI Projects**
+Repository:  
+https://github.com/AbhaySingh-ml/Project-2-Customer-Segmentation-Using-K-Means-Clustering-for-Targeted-Marketing
 
 ---
 
-## 🌐 Let's Connect
+## 🧠 Problem Solving
 
-- 📇 [LinkedIn](https://www.linkedin.com/in/abhay-singh-1694b221b/)  
-- 📧 Email: abhaylucky121@gmail.com  
-- 🌍 Portfolio Website: *Coming soon*  
-- 💼 Resume: *Available upon request*
+### Data Structures & Algorithms (Python)
+
+- 150+ problems solved (arrays, strings, trees, graphs, dynamic programming)  
+- Focus on logic building and interview preparation  
+
+Repository:  
+https://github.com/AbhaySingh-ml/leetcode-solutions
 
 ---
 
-> 🧠 *“Stay curious. Keep learning. Build something that matters.”*
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/abhay-singh-1694b221b/  
+- Email: abhaylucky121@gmail.com
 
 
 
